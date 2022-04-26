@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... github
 - 💞️ I’m looking to collaborate on ... github
-- 📫 How to reach me ... github
+- 📫 How to reach me ... through xitiz bakchod
 
 <!---
 sh1vamm/sh1vamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
